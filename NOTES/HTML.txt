@@ -1,0 +1,7 @@
+HTML:
+<meta charset="UTF-8"> , tells what type of character can this webpage understand and display.
+UTF-8 = supports normal letters, numbers, symbols, and many languages.
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">, this is for making your website display properly on different screen sizes, especially mobile phones. 
+width=device-width : Make the webpage width match the device's screen width
+initial-scale=1.0 :Start the webpage at normal zoom (100%).
